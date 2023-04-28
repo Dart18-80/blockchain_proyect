@@ -10,8 +10,6 @@ You'll need [Git](https://git-scm.com) to run the project from source. From your
 command line:
 
 ```bash
-# Clone this repository
-$ git clone https://github.com/seanseany/blockchain
 
 # Go into the repository
 $ cd blockchain
